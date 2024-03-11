@@ -1,0 +1,14 @@
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\bin\Debug\net7.0\Task3.exe
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\bin\Debug\net7.0\Task3.deps.json
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\bin\Debug\net7.0\Task3.dll
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\bin\Debug\net7.0\Task3.pdb
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\obj\Debug\net7.0\Task3.dll
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\obj\Debug\net7.0\refint\Task3.dll
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\obj\Debug\net7.0\Task3.pdb
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\CSHARP\Lessone1\Task3\obj\Debug\net7.0\ref\Task3.dll
